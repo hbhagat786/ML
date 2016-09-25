@@ -47,8 +47,8 @@ m = length(y); % number of training examples
 plotData(X, y);
 
 plot(X, y, 'rx', 'MarkerSize', 10); % Plot the data
-ylabel('Profit in $10,000s'); % Set the y䀀ࡸis label
-xlabel('Population of City in 10,000s'); % Set the x䀀ࡸis label
+ylabel('Profit in $10,000s'); % Set the y􀀀axis label
+xlabel('Population of City in 10,000s'); % Set the x􀀀axis label
 
 
 fprintf('Program paused. Press enter to continue.\n');
